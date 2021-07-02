@@ -1,3 +1,3 @@
 # CA-CheatSheet
 
-Cheat sheet for using semantic elements to create abd style a website.
+Cheat sheet for using semantic elements to create and style a website.
