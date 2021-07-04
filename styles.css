@@ -36,7 +36,7 @@ h3 {
     padding: 0.25em;
 }
 
-.tbl_example tr:nth-child(odd) td {
+.tbl_example tr:nth-child(odd) {
     background-color: lightgrey;
 }
 
@@ -56,4 +56,10 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.tbl_example tr:hover {
+    /*text-decoration: underline;*/
+    /*font-weight: 400;*/
+    background-color: rgba(255, 255, 0, 0.5) !important;
 }
